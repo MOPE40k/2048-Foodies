@@ -7,3 +7,5 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-green?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.TwoSixCelsiusGames.Fruit2048)
 
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/ru_badge_web_generic.png)](https://play.google.com/store/apps/details?id=ВАШ_PACKAGE_NAME)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=ВАШ_PACKAGE_NAME)
